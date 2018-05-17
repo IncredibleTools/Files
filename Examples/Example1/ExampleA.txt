@@ -1,0 +1,9 @@
+Name: Example A
+Author: Jorge Santana
+Date: 05-17-2018
+Comments: You can type what you want before the hashtag. Do not use Tab, semicolon or hashtag character here! The hashtag character sets the beginning and end of your table.
+#
+1	2	3	4
+5	4	6	2.576
+-1	-2	-2.7	5
+#

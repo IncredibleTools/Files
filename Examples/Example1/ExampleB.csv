@@ -1,0 +1,9 @@
+Name: Example B
+Author: Jorge Santana
+Date: 05-17-2018
+Comments: This class also accepts CSV files! You can type what you want before the asterisk. Do not use Tab, semicolon or hashtag character here! The hashtag character sets the beginning and end of your table.
+#
+2;7;3.14;4
+5;4;62;2.576
+-1;-21;-2.7;57
+#
