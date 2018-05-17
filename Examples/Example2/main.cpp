@@ -49,4 +49,6 @@ int main(){
   printf(" %.2f    %.2f    %.2f    %.2f\n", ExampleA.f_file[0][0], ExampleA.f_file[0][1], ExampleA.f_file[0][2], ExampleA.f_file[0][3]);
   printf(" %.2f    %.2f    %.2f    %.2f\n", ExampleA.f_file[1][0], ExampleA.f_file[1][1], ExampleA.f_file[1][2], ExampleA.f_file[1][3]);
   printf("%.2f   %.2f   %.2f    %.2f\n", ExampleA.f_file[2][0], ExampleA.f_file[2][1], ExampleA.f_file[2][2], ExampleA.f_file[2][3]);
+  
+  return 0;
 }
